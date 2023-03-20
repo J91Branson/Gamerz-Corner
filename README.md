@@ -1,4 +1,4 @@
-# Gamerz-Corner
+====== Gamerz-Corner
 
 ## What is the point of Gamerz Corner for Users
 The purpose of the site is to provide reviews, and information on some of the recently released videogames. It also provides a couple of search features that allow a user to research games , or just browse find new games to try.
